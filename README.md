@@ -70,6 +70,11 @@ Grouped predictors were tested to measure their significance:
 | **Macroeconomic Factors**        | +11.1%           | Significant      |
 | **Energy Transition (EV Sales)** | +4.7%            | Emerging impact  |
 
+---
+
+## ⭐ If you find this project useful, feel free to star the repository!
+
+
 
 
 
